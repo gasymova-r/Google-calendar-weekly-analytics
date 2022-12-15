@@ -8,4 +8,4 @@ Before running the code you need to:
 
 ### Example output
 
-![example](Google-calendar-weekly-analytics/report-example.png)
+![example](report-example.png)
